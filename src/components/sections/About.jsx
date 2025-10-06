@@ -57,7 +57,7 @@ export default function About() {
           >
             <div className="relative w-full h-64 sm:h-80 lg:h-96 rounded-2xl overflow-hidden shadow-xl">
               <Image
-                src="/about-image.svg" // Temporary placeholder - replace with about-image.jpg
+                src="/about-image.jpg" // Temporary placeholder - replace with about-image.jpg
                 alt="About Abdullah Iqbal"
                 fill
                 className="object-cover"
