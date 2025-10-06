@@ -1,11 +1,11 @@
 export const experience = [
   {
     id: 1,
-    title: "Senior Full Stack Developer",
-    company: "Tech Company Name",
-    location: "City, Country / Remote",
-    duration: "Jan 2023 - Present",
-    type: "Full-time",
+    title: "Full Stack Developer",
+    company: "Texas Web Coders",
+    location: "Karachi, Pakistan / Remote",
+    duration: "April 2024 - Present",
+    type: "Part-time",
     description: "Leading development of scalable web applications using modern technologies.",
     responsibilities: [
       "Architected and developed full-stack applications using Next.js, Node.js, and PostgreSQL",

@@ -1,8 +1,0 @@
-📄 REPLACE THIS WITH YOUR RESUME
-
-Required: resume.pdf
-Format: PDF
-
-Your professional resume/CV.
-
-Delete this .txt file after adding your resume.

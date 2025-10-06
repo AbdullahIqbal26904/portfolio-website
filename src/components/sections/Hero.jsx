@@ -124,7 +124,7 @@ export default function Hero() {
               {/* Profile Image */}
               <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/profile.svg" // Temporary placeholder - replace with profile.jpg
+                  src="/profile.jpg" // Temporary placeholder - replace with profile.jpg
                   alt={personalInfo.name}
                   fill
                   className="object-cover"

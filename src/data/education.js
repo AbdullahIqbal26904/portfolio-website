@@ -2,11 +2,11 @@ export const education = [
   {
     id: 1,
     degree: "Bachelor's Degree in Computer Science",
-    institution: "University Name",
-    location: "City, Country",
-    duration: "2018 - 2022",
+    institution: "Institute Of Business Administration",
+    location: "Karachi, Pakistan",
+    duration: "2022 - 2026",
     description: "Relevant coursework: Data Structures, Algorithms, Web Development, Database Systems",
-    gpa: "3.8/4.0",
+    gpa: "3.26/4.0",
   },
   // Add more education entries as needed
 ];
@@ -14,9 +14,9 @@ export const education = [
 export const certifications = [
   {
     id: 1,
-    name: "AWS Certified Solutions Architect",
-    issuer: "Amazon Web Services",
-    date: "2023",
+    name: "Full Stack Web Developer, NAVTTC",
+    issuer: "IBA - CICT",
+    date: "2024",
     credentialId: "ABC123XYZ",
     credentialUrl: "https://aws.amazon.com/verification",
   },

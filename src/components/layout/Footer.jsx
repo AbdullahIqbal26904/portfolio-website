@@ -70,9 +70,8 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="mt-8 pt-8 border-t border-gray-200 dark:border-gray-800 text-center">
           <p className="text-gray-600 dark:text-gray-400 text-sm flex items-center justify-center gap-1 flex-wrap">
-            © {currentYear} {personalInfo.name}. Built with 
+            © {currentYear} {personalInfo.name}.
             <FaHeart className="text-red-500 mx-1" size={14} /> 
-            using Next.js & Tailwind CSS
           </p>
         </div>
       </div>
