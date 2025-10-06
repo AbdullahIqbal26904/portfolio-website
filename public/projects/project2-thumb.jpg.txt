@@ -1,0 +1,7 @@
+📸 ADD YOUR PROJECT THUMBNAIL
+
+Recommended size: 400x300px
+Format: JPG or PNG
+
+Replace this with your project screenshot/thumbnail.
+Delete this .txt file after adding the image.

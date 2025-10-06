@@ -1,0 +1,13 @@
+📸 REPLACE THIS WITH YOUR PROFILE IMAGE
+
+Required: profile.jpg
+Recommended size: 512x512px
+Format: JPG or PNG
+
+Your professional headshot or profile picture.
+
+Temporary placeholder you can use:
+https://via.placeholder.com/512x512
+https://i.pravatar.cc/512
+
+Delete this .txt file after adding your image.

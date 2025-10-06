@@ -1,0 +1,12 @@
+📸 REPLACE THIS WITH YOUR SOCIAL MEDIA PREVIEW IMAGE
+
+Required: og-image.jpg
+Required size: 1200x630px (exact)
+Format: JPG or PNG
+
+This image appears when sharing your site on social media.
+
+Temporary placeholder:
+https://via.placeholder.com/1200x630
+
+Delete this .txt file after adding your image.

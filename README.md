@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Website - Abdullah Iqbal
 
-## Getting Started
+A modern, responsive, and professional portfolio website built with Next.js and Tailwind CSS.
 
-First, run the development server:
+## 🌟 Features
+
+- ✨ Modern and clean design
+- 🌗 Dark mode support
+- 📱 Fully responsive
+- ⚡ Fast loading with Next.js
+- 🎨 Smooth animations with Framer Motion
+- 📧 Working contact form with EmailJS
+- 🎯 SEO optimized
+- 🚀 Ready for deployment
+
+## 🚀 Quick Start
 
 ```bash
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📖 Full Documentation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+See [SETUP.md](./SETUP.md) for detailed setup instructions and customization guide.
 
-## Learn More
+## 🎨 Customization
 
-To learn more about Next.js, take a look at the following resources:
+1. Update personal information in `src/data/personalInfo.js`
+2. Add your projects in `src/data/projects.js`
+3. Update skills in `src/data/skills.js`
+4. Add work experience in `src/data/experience.js`
+5. Update education in `src/data/education.js`
+6. Add your images to `public/` folder
+7. Configure EmailJS for contact form
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📁 Project Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```
+src/
+├── app/                 # Next.js app directory
+├── components/          # React components
+│   ├── layout/         # Header, Footer
+│   └── sections/       # Hero, About, Skills, etc.
+├── context/            # Theme context
+└── data/               # Content data files
+```
 
-## Deploy on Vercel
+## 🛠️ Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Next.js 15.5.4
+- React 19.1.0
+- Tailwind CSS 4
+- Framer Motion
+- React Icons
+- EmailJS
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚀 Deployment
+
+### Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
+
+1. Push your code to GitHub
+2. Import repository on Vercel
+3. Deploy!
+
+## 📝 License
+
+Free to use for personal and commercial projects.
+
+## 🤝 Contributing
+
+Feel free to fork this project and customize it for your needs!
+
+---
+
+Built with ❤️ using Next.js and Tailwind CSS
+

@@ -1,10 +1,11 @@
 import { 
   SiReact, SiNextdotjs, SiJavascript, SiTypescript, SiHtml5, SiCss3, 
   SiTailwindcss, SiNodedotjs, SiExpress, SiPostgresql, SiMysql, 
-  SiMongodb, SiDocker, SiGithubactions, SiAmazonaws, SiVercel, 
+  SiMongodb, SiDocker, SiGithubactions, SiVercel, 
   SiPrisma, SiRedux, SiFigma, SiPostman, SiGit, SiVite, SiWebpack,
   SiGraphql, SiRedis, SiNginx, SiLinux
 } from 'react-icons/si';
+import { FaAws } from 'react-icons/fa';
 
 export const skillsData = {
   frontend: [
@@ -34,7 +35,7 @@ export const skillsData = {
   devops: [
     { name: "Docker", icon: SiDocker, level: 85 },
     { name: "GitHub Actions", icon: SiGithubactions, level: 82 },
-    { name: "AWS", icon: SiAmazonaws, level: 80 },
+    { name: "AWS", icon: FaAws, level: 80 },
     { name: "Vercel", icon: SiVercel, level: 90 },
     { name: "Nginx", icon: SiNginx, level: 75 },
     { name: "Linux", icon: SiLinux, level: 83 },
